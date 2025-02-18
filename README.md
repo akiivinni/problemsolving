@@ -2,6 +2,7 @@
 
 
 Create a function that takes two numbers as arguments and returns their sum.
+
 Write a function that takes an integer minutes and converts it to seconds.
 Create a function that takes a number as an argument, increments the number by +1 and returns the result.
 Create a function that takes the age in years and returns the age in days.
